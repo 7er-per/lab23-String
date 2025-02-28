@@ -105,7 +105,6 @@ void searchGrade(vector<string> &names, vector<int> &scores, vector<char> &grade
     cout << "---------------------------------" << endl;
 }
 
-
 int main(){
     string filename = "name_score.txt";
     vector<string> names;
